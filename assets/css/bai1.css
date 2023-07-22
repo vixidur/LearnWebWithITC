@@ -1,0 +1,12 @@
+.navbar {
+    background-color: cadetblue;
+    min-height: 40px;
+}
+.navbar li {
+    display: inline;
+    color: white;
+    list-style-type: none;
+    padding: 10px;
+    font-size: 18px;
+    line-height: 40px;
+}
