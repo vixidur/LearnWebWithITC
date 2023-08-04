@@ -2,7 +2,7 @@
     background-color: cadetblue;
     min-height: 40px;
 }
-.navbar li {
+.navbar li a{
     display: inline;
     color: white;
     list-style-type: none;
